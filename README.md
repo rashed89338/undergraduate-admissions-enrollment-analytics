@@ -48,9 +48,8 @@ This project was designed to answer the following questions:
 
 * Interactive Dashboard: [Looker Studio Dashboard Link](https://datastudio.google.com/reporting/cbf642e0-8158-4555-ae76-b35edd2653ee)]
 * Dataset Documentation: [Add Data Dictionary Link]
-* SQL Scripts: [Add SQL Folder Link]
-* BigQuery Project/Table: [Add BigQuery Link]
-* Portfolio Website: [Add Portfolio Link]
+* SQL Scripts: [SQL Folder Link](https://github.com/rashed89338/undergraduate-admissions-enrollment-analytics/blob/main/sql/admissions_kpi_queries.sql)]
+
 
 ---
 
