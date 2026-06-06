@@ -325,28 +325,6 @@ This project demonstrates:
 * Business intelligence reporting
 * Stakeholder-focused storytelling
 
-## Repository Structure
-
-undergraduate-admissions-enrollment-analytics/
-│
-├── README.md
-├── data/
-│   └── cleaned_dataset_documentation.md
-│
-├── sql/
-│   ├── executive_kpis.sql
-│   ├── enrollment_trends.sql
-│   ├── admissions_funnel.sql
-│   ├── demographic_analysis.sql
-│   ├── gpa_analysis.sql
-│   └── financial_aid_analysis.sql
-│
-├── dashboards/
-│   ├── executive_overview.png
-│   └── conversion_yield_dashboard.png
-│
-└── documentation/
-    └── data_dictionary.md
 
 ## Conclusion
 
