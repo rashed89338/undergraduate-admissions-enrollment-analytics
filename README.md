@@ -206,39 +206,29 @@ An interactive dashboard was developed in Looker Studio and connected directly t
 ### Dashboard Page 1: Executive Overview
 ### Included Metrics
 
-Total Applicants
-Total Admitted
-Total Enrolled
-Admission Rate
-Yield Rate
+* Total Applicants
+* Total Admitted
+* Total Enrolled
+* Admission Rate
+* Yield Rate
 
 ### Included Visuals
 
-Application, Admission, and Enrollment Trend (2021–2025)
-Admission Rate Distribution by Application Term
-Applicant Distribution by Gender
-Admission Rate Distribution by Ethnicity
-
-
-Dashboard: 
-
----
+* Application, Admission, and Enrollment Trend (2021–2025)
+* Admission Rate Distribution by Application Term
+* Applicant Distribution by Gender
+* Admission Rate Distribution by Ethnicity
 
 ### Dashboard Page 2: Enrollment Conversion and Yield Analytics
 
-This page focuses on applicant progression and enrollment conversion.
+This page focuses on applicant progression through the admissions pipeline and enrollment conversion outcomes.
 
 Included visuals:
 
-* Admissions conversion funnel
-* Yield rate by ethnicity
-* Yield rate by gender
-* Enrollment outcomes by financial aid application status
-* Admission rate vs yield rate comparison
-
-Dashboard Screenshot: [Insert Page 2 Screenshot]
-
----
+* Admissions Conversion Funnel (Applicants → Admitted → Enrolled)
+* Yield Rate by Ethnicity
+* Yield Rate by Gender
+* Admission Rate and Yield Rate Comparison by Ethnicity
 
 ## Executive Summary
 
@@ -254,8 +244,6 @@ A total of 36,603 undergraduate applicant records were analyzed across Fall 2021
 
 The analysis shows that the institution had a strong applicant pool and a stable admission rate. However, the largest drop occurred between admitted students and enrolled students, suggesting that enrollment conversion and yield are important areas for strategic attention.
 
----
-
 ## Key Findings
 
 ### 1. Admissions Funnel
@@ -270,19 +258,11 @@ The admissions funnel showed the movement from applicant to admitted student to 
 
 The largest drop occurred after admission, where many admitted students did not enroll. This highlights the importance of improving post-admission engagement and yield strategies.
 
-Visualization: [Insert Admissions Funnel Screenshot]
-
----
-
 ### 2. Admission and Enrollment Trends
 
 Applications increased significantly between Fall 2021 and Fall 2024. Enrollment also increased, but at a slower pace compared with application growth.
 
 This suggests that application volume alone does not fully explain enrollment growth. Improving the conversion of admitted students into enrolled students may be an important opportunity.
-
-Visualization: [Insert Trend Chart Screenshot]
-
----
 
 ### 3. Gender Analysis
 
@@ -290,20 +270,11 @@ Female students represented the largest applicant group and also accounted for t
 
 This analysis helps identify applicant and enrollment composition by gender and supports demographic reporting for institutional planning.
 
-Visualization: [Insert Gender Dashboard Screenshot]
-
----
-
 ### 4. Ethnicity Analysis
 
 Hispanic and Black students represented the largest applicant groups. Enrollment distribution varied across ethnic groups, showing differences between applicant volume and enrollment outcomes.
 
 This analysis provides insight into recruitment composition and student population trends.
-
-Visualization: [Insert Ethnicity Dashboard Screenshot]
-
----
-
 ### 5. GPA Analysis
 
 Academic performance showed a strong relationship with admission and enrollment outcomes.
@@ -319,19 +290,11 @@ Students who were admitted had a higher average high school GPA than students wh
 
 This suggests that GPA is an important academic indicator associated with both admission and enrollment outcomes.
 
-Visualization: [Insert GPA Analysis Screenshot]
-
----
-
 ### 6. Financial Aid Analysis
 
 Financial aid application status showed a meaningful relationship with enrollment outcomes. Students who applied for financial aid had a higher enrollment rate than students who did not apply.
 
 This finding suggests that financial aid engagement may play an important role in enrollment decisions.
-
-Visualization: [Insert Financial Aid Analysis Screenshot]
-
----
 
 ## Dashboard Design
 
@@ -348,12 +311,8 @@ Design elements included:
 * Deep blue visual theme
 * Minimal text with clear chart titles
 
----
-
 ## Skills Demonstrated
-
 This project demonstrates:
-
 * SQL query development
 * Google BigQuery analytics
 * Exploratory data analysis
@@ -366,11 +325,8 @@ This project demonstrates:
 * Business intelligence reporting
 * Stakeholder-focused storytelling
 
----
-
 ## Repository Structure
 
-```text
 undergraduate-admissions-enrollment-analytics/
 │
 ├── README.md
@@ -391,9 +347,6 @@ undergraduate-admissions-enrollment-analytics/
 │
 └── documentation/
     └── data_dictionary.md
-```
-
----
 
 ## Conclusion
 
@@ -401,13 +354,3 @@ This project demonstrates how admissions and enrollment data can be transformed 
 
 The analysis shows that while application and admission volumes were strong, enrollment conversion remains a key area for improvement. The dashboard can help decision-makers monitor admissions performance, understand student demographics, and identify opportunities to improve enrollment yield.
 
----
-
-## Author
-
-**Md. Rashedul Hoque**
-Data Analytics | Business Intelligence | Dashboard Development
-
-LinkedIn: [Add LinkedIn Link]
-Portfolio: [Add Portfolio Link]
-GitHub: [Add GitHub Link]
