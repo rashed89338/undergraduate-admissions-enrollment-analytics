@@ -204,25 +204,23 @@ EDA included:
 An interactive dashboard was developed in Looker Studio and connected directly to BigQuery. The dashboard was designed to provide a professional executive-level view of admissions and enrollment performance.
 
 ### Dashboard Page 1: Executive Overview
+### Included Metrics
 
-This page summarizes the main institutional KPIs.
+Total Applicants
+Total Admitted
+Total Enrolled
+Admission Rate
+Yield Rate
 
-Included metrics:
+### Included Visuals
 
-* Total Applicants
-* Total Admitted
-* Total Enrolled
-* Admission Rate
-* Yield Rate
+Application, Admission, and Enrollment Trend (2021–2025)
+Admission Rate Distribution by Application Term
+Applicant Distribution by Gender
+Admission Rate Distribution by Ethnicity
 
-Included visuals:
 
-* Admissions pipeline trend by application term
-* Enrollment distribution by gender
-* Enrollment distribution by ethnicity
-* Enrollment share by application term
-
-Dashboard Screenshot: [Insert Page 1 Screenshot]
+Dashboard: 
 
 ---
 
